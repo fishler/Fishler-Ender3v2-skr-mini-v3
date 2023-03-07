@@ -170,3 +170,7 @@ __pycache__
 
 # IOLogger logs
 *_log.csv
+
+#dirs
+.pio/
+.vscode/
